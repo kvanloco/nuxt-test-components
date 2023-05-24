@@ -5,12 +5,20 @@ yarn install && yarn dev --host
 ```
 
 ## packages
-### Nuxt 
+
+### Nuxt
+
 - Nuxt 3
 - Tailwindcss
 - HeadlessUI
-- Piniayarn add @nuxtjs/tailwindcss
+- Pinia
+- vueuse
+- supabase
+- ? prisma
+- nuxt-icon
 
 ### JS
+
 -
+
 ## vs code extensions
