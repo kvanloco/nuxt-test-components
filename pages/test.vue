@@ -2,7 +2,12 @@
   <table class="w-full ">
     <tbody>
       <tr>
-        <td class="bg-gray-100 border">blue</td>
+        <td class="bg-gray-100 border ">
+          <div class="flex items-center justify-center">
+
+            <img src="img/calendar.png" alt="Calender image">
+          </div>
+          </td>
         <td class="p-2 border">
             <div class="text-xl pt-2">Voorjaars hapje/tapje</div>
             <div class="text-blue-500 text-sm pb-2"><a href="#">Bekijken op Agenda</a></div>
@@ -30,7 +35,26 @@
                 <div class="font-semibold">Meer opties</div>
             </div>
         </td>
-        <td class="border">green</td>
+        <td class="border">
+          <div class="p-2 flex flex-col justify-items-start">
+            <div class="text-xl pt-2">Agenda</div>
+            <div class="text-sm text-gray-500 pb-2">do 15 jun 2023</div>
+            <div class="text-gray-500 italic">Geen eerdere gebeurtenissen</div>
+            <div> 
+              <table>
+                <tbody>
+                  <tr>
+                    <td>17:00</td>
+                    <td>Voorjaars hapje/tapje</td>
+
+                  </tr>
+                </tbody>
+              </table>
+              
+            </div>
+            <div>Geen latere gebeurtenissen</div>
+          </div>
+        </td>
       </tr>
     </tbody>
   </table>
