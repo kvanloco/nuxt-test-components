@@ -35,8 +35,8 @@
                 <div class="font-semibold">Meer opties</div>
             </div>
         </td>
-        <td class="border">
-          <div class="p-2 flex flex-col justify-items-start">
+        <td class="border align-top">
+          <div class="p-2 align-top">
             <div class="text-xl pt-2">Agenda</div>
             <div class="text-sm text-gray-500 pb-2">do 15 jun 2023</div>
             <div class="text-gray-500 italic">Geen eerdere gebeurtenissen</div>
@@ -52,7 +52,7 @@
               </table>
               
             </div>
-            <div>Geen latere gebeurtenissen</div>
+            <div class="text-gray-500 italic">Geen latere gebeurtenissen</div>
           </div>
         </td>
       </tr>
