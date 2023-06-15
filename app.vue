@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <template>
-      <h1 class="text-3xl font-bold underline">Hello world!</h1>
-    </template>
+  <div class="m-auto max-w-screen-lg">
+   
+      <NuxtPage />
+  
   </div>
 </template>
