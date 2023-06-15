@@ -39,7 +39,7 @@
           <div class="p-2 align-top">
             <div class="text-xl pt-2">Agenda</div>
             <div class="text-sm text-gray-500 pb-2">do 15 jun 2023</div>
-            <div class="text-gray-500 italic">Geen eerdere gebeurtenissen</div>
+            <div class="text-gray-500 italic text-sm">Geen eerdere gebeurtenissen</div>
             <div> 
               <table>
                 <tbody>
@@ -52,7 +52,7 @@
               </table>
               
             </div>
-            <div class="text-gray-500 italic">Geen latere gebeurtenissen</div>
+            <div class="text-gray-500 italic text-sm">Geen latere gebeurtenissen</div>
           </div>
         </td>
       </tr>
